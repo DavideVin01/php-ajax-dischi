@@ -8,7 +8,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="../css/style.css">
     <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/bootstrap/4.6.1/css/bootstrap-grid.css' integrity='sha512-VA/YQLfZ2JQlKs8s3wffXcOki/gvJsM9V2x7eSZ1cetjA43S9XeVWv0ZTjkW29zdlwnGzoIq+0OUErhHM38t1g==' crossorigin='anonymous' />
     <title>PHP DISCHI</title>
 </head>
@@ -21,9 +21,9 @@
         <div>
             <select name="genre" id="genre">
                 <option value="Rock">Rock</option>
-                <option value="Rock">Pop</option>
-                <option value="Rock">Jazz</option>
-                <option value="Rock">Metal</option>
+                <option value="Pop">Pop</option>
+                <option value="Jazz">Jazz</option>
+                <option value="Metal">Metal</option>
             </select>
         </div>
     </header>
